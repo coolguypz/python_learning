@@ -1,0 +1,12 @@
+# help Screen
+print("\n")
+print("My Journal 1.0 Help\n")
+print("Thi is a program designed for daily jouraling via the command line\n")
+print("Command:\n")
+print("help - Display help for the program commands")
+print("new - Create a new journal entry")
+print("list - List the journal entries")
+print("view <date> - View a single journal entry")
+print("edit <date> - Edit an existing journal entry")
+print("delete <date> - Delete an existing journal entry")
+print("\n")
